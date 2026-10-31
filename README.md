@@ -12,3 +12,5 @@ Owner: Ajustes, Alertas, Historial, MiLocal, Soporte
 Tecnico: AgregarNegocio, Dashboard, DetalleNegocio, Solicitudes
 
 ## Wireframe 6 pantallas + Video demo (baja calidad)
+file:///C:/Users/bvniv/Downloads/App%20Monitoreo/WireFrame_App.html
+https://youtube.com/shorts/wHKvAm7hqos?feature=share
