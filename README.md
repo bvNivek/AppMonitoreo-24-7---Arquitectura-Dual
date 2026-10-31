@@ -11,4 +11,4 @@ Proyecto perdido por guardado incorrecto, se deja arquitectura y diseño como re
 Owner: Ajustes, Alertas, Historial, MiLocal, Soporte
 Tecnico: AgregarNegocio, Dashboard, DetalleNegocio, Solicitudes
 
-## Wireframe 6 pantallas + Video demo
+## Wireframe 6 pantallas + Video demo (baja calidad)
